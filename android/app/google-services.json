@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110579664410",
+    "project_id": "aounassessment-9713a",
+    "storage_bucket": "aounassessment-9713a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110579664410:android:6931d81274476246e033a3",
+        "android_client_info": {
+          "package_name": "com.aounassessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeWijCFuWmiR1O9PLeCBut39CcOh8wRjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
